@@ -1,1 +1,4 @@
 # gastos_viagens_portal_transparencia
+A análise realizada permitiu identificar os cargos públicos responsáveis pelo maior número de viagens ao longo de 2023, bem como seus respectivos gastos médios, duração das viagens e destinos mais recorrentes. A consolidação dos dados revelou padrões importantes, como a concentração de despesas em determinados cargos e a recorrência de viagens para os mesmos destinos.
+
+Com base nesses achados, é possível levantar questionamentos sobre a eficiência e a necessidade das viagens realizadas, além de destacar eventuais excessos ou discrepâncias entre cargos. A filtragem aplicada, considerando apenas os cargos com participação relevante no total de viagens, contribuiu para uma visão mais clara e focada nos principais responsáveis pelos gastos com deslocamentos.
